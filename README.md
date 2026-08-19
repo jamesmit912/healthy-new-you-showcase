@@ -291,24 +291,33 @@ The current release represents the completion of the initial product-development
 
 ---
 
-## Screenshots
+## Product Preview
 
-Add approved screenshots here before making this showcase public.
+### Home
 
-Suggested screenshots:
+![Healthy New You home screen](docs/images/home.png)
 
-- Dashboard
-- Goals
-- Habits
-- Wellness Tree
-- AI Assistant
-- Embedded production experience
+### Progress Dashboard
 
-Example:
+![Healthy New You progress dashboard](docs/images/dashboard.png)
 
-```md
-![Healthy New You Dashboard](docs/images/dashboard.png)
-```
+### Goals
+
+![Healthy New You goals screen](docs/images/goals.png)
+
+### Habits
+
+![Healthy New You habits screen](docs/images/habits.png)
+
+### Wellness Tree
+
+![Healthy New You Wellness Tree](docs/images/wellness-tree.png)
+
+### AI Assistant
+
+![Healthy New You AI assistant](docs/images/ai-assistant.png)
+
+> The screenshots above use a clean/demo state and contain no private wellness information. The AI Assistant image can later be replaced with an approved demo conversation to show the coaching experience more clearly.
 
 ---
 
